@@ -40,6 +40,9 @@ It's a **sandbox** for those who want to feel like a Kernel.(in future updates)
    ```bash
    python3 feliksos.py
    ```
+
+---
+
 Found a bug?
 
 Write in the comments!
